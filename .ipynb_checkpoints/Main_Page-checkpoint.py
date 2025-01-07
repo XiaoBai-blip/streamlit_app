@@ -9,7 +9,7 @@ import plotly.express as px
 
 st.title("Quantitative Analysis of Consumer Feedback and Its Relation with the Perceived Effectiveness of Pharmaceutical Products: A Regression Analysis Approach")
 st.divider()
-st.header("Xiao Bai (1862548450)")
+st.header("Xiao Bai - University of Southern California")
 st.divider()
 st.subheader("Research Objective and Webapp Guidance")
 st.write("The aim of this research is to investigate the wide array of FDA-regulated drugs available in the market and to examine consumer experiences with these drugs. I will analyze various consumer rating metrics to understand how they relate to each other. Specifically, my study employs  regression analysis to explore the relationship between drug effectiveness and other factors, such as consumer ratings of usability, satisfaction, and drug prices. I intend to determine whether drugs classified as 'effective' by consumers are perceived as such because they are cost-effective or because consumers are satisfied with their use. This research offer actionable insights for pharmaceutical companies to refine their product development and marketing strategies based on consumer feedback, potentially leading to improved user satisfaction and better market performance.")
